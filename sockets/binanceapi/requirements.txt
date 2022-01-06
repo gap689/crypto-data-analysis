@@ -2,3 +2,5 @@ python-binance
 TA-lib
 numpy
 websocket-client
+pudb
+pandas
